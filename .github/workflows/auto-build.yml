@@ -8,7 +8,7 @@ on:
 env:
   REPO_URL: https://github.com/kalous12/rockchip-build.git
   REPO_BRANCH: main
-  BOARD: lubancat2
+  BOARD: lubancat4
   TZ: Asia/Shanghai
 
 jobs:
