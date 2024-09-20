@@ -9,7 +9,7 @@ on:
         required: true
         type: choice
         options:
-        - "lubancat2"
+        - "lubancat4"
 
 env:
   TZ: Asia/Shanghai
